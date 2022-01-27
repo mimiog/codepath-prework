@@ -37,7 +37,7 @@ GIF created with [Quicktime and hackmd](https://hackmd.io/@codepath-tfs/record-g
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 
